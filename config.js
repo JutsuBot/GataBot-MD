@@ -13,8 +13,8 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["51985018729", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝗝𝘂𝘁𝗷𝘂𝗕𝗼𝘁-𝗭𝗫 💖🐈
-["51983938228"]
+["51985018729", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝐀𝐑𝐀𝐁𝐈𝐀 𝐁𝐎𝐓 🐐💥
+["56958857721", '𝗕𝗼𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🙈💥', true], //𝐙𝐄𝐗𝐗
    
 global.mods = []
 global.prems = []
@@ -63,7 +63,7 @@ global.keysxteammm = ["29d4b59a4aa687ca", "5LTV57azwaid7dXfz5fzJu", "cb15ed422c7
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ["5VC9rvNx", "cfALv5"]
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = "Gata_Dios"
+global.lolkeysapi = "𝐀𝐑𝐀𝐁𝐈𝐀-𝐉𝐁"
 global.itsrose = ["4b146102c4d500809da9d1ff"]
 global.baileys = "@whiskeysockets/baileys"
 
@@ -112,9 +112,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["51983938228", '𝗝𝘂𝘁𝗷𝘂𝗕𝗼𝘁-𝗭𝗫 💻', 1], 
+["51985018729", '𝐀𝐑𝐀𝐁𝐄 𝐙𝐁 💻', 1], 
 ["51985018729", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-["51985018729", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]]
+["51983938228", '𝗖𝗼𝗹𝗮𝗯𝗼𝗿𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -122,8 +122,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = `╭ 𝗝𝘂𝘁𝗷𝘂𝗕𝗼𝘁-𝗭𝗫🐈\n┃\n┃ » 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖:\n┃ @Zexxbot\n┃\n┃ » 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n┃ @Zexxbot\n┃\n┃ » 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n┃ @zexxbot1\n╰━━━━━━━━•` //"𝗝𝘂𝘁𝗷𝘂𝗕𝗼𝘁-𝗭𝗫 🐈"
-global.author = ` ╭ 𝗚𝗮𝘁𝗮 𝗗𝗶𝗼𝘀 ✓\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞𝚋:\n ┃ GataNina-Li\n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Apoyo\n ┃ » 𝙿𝚊𝚢𝙿𝚊𝚕:\n ┃ @OficialGD\n ╰━━━━━━━━•` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.packname = `╭ 𝐀𝐑𝐀𝐁𝐈𝐀 𝐁𝐎𝐓🐐💥\n┃\n┃ » 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖:\n┃ @Zexxbot\n┃\n┃ » 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n┃ @Zexxbot\n┃\n┃ » 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n┃ @zexxbot1\n╰━━━━━━━━•` //"𝐀𝐑𝐀𝐁𝐈𝐀 𝐁𝐎𝐓 🐐💥"
+global.author = ` ╭ 𝐀𝐑𝐀𝐁𝐄 𝐙𝐁 ✓\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞𝚋:\n ┃ arabe-JB-Bot\n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Apoyo\n ┃ » 𝙿𝚊𝚢𝙿𝚊𝚕:\n ┃ @OficialGD\n ╰━━━━━━━━•` //"𝐀𝐑𝐀𝐁𝐄 𝐙𝐁🐐💥"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,11 +131,11 @@ global.author = ` ╭ 𝗚𝗮𝘁𝗮 𝗗𝗶𝗼𝘀 ✓\n ┃\n ┃ » 𝙶�
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝗝𝘂𝘁𝗷𝘂𝗕𝗼𝘁-𝗭𝗫"
+global.gt = "𝐀𝐑𝐀𝐁𝐈𝐀 𝐁𝐎𝐓"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.rg = '╰⊱✅⊱ *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊 | 𝙍𝙀𝙎𝙐𝙇𝙏* ⊱✅⊱╮\n\n'
+global.rg = '╰⊱✅⊱ *𝗥𝗘𝗦𝗨𝗟𝗧𝗔𝗗𝗢𝗦 | 𝙍𝙀𝙎𝙐𝙇𝙏* ⊱✅⊱╮\n\n'
 global.resultado = rg
 
 global.ag = '╰⊱⚠️⊱ *𝘼𝘿𝙑𝙀𝙍𝙏𝙀𝙉𝘾𝙄𝘼 | 𝙒𝘼𝙍𝙉𝙄𝙉𝙂* ⊱⚠️⊱╮\n\n'
@@ -157,9 +157,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝗝𝘂𝘁𝗷𝘂𝗕𝗼𝘁-𝗭𝗫 : 𝗝𝘂𝘁𝗷𝘂𝗕𝗼𝘁-𝗭𝗫"
-global.igfg = "𝗝𝘂𝘁𝗷𝘂𝗕𝗼𝘁-𝗭𝗫"
-global.nomorown = "593993684821"
+global.wm = "𝐀𝐑𝐀𝐁𝐈𝐀 𝐁𝐎𝐓 : 𝐀𝐑𝐀𝐁𝐄-𝐉𝐁-𝐁𝐎𝐓"
+global.igfg = "𝐀𝐑𝐀𝐁𝐈𝐀 𝐁𝐎𝐓"
+global.nomorown = "56958857721"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
